@@ -25,6 +25,7 @@ status: under development
 
 ## structure
 
+```text
 workshop-management-system/
 │
 ├── main.py
@@ -56,6 +57,11 @@ workshop-management-system/
 │
 │
 └── logs/
+```
+
+## changelog
+
+see [changelog.md](changelog.md)
 
 ## Installation
 
@@ -67,21 +73,21 @@ pip3 install -r requirements.txt
 
 ## roadmap
 
- - [x]project structure
- - [x]virtual environment
- - [x]requirements.txt file
- - []application logo
- - []main menu
- - []inventory page
- - []SQlite database
- - []add parts
- - []edit parts
- - []delete parts
- - []search
- - []history
- - []reports
- - []export excel
- - []maybe QRcode
- - []Dark/Light mode
- - []multi language
- - []images
+ - [x] project structure
+ - [x] virtual environment
+ - [x] requirements.txt file
+ - [] application logo
+ - [] main menu
+ - [] inventory page
+ - [] SQlite database
+ - [] add parts
+ - [] edit parts
+ - [] delete parts
+ - [] search
+ - [] history
+ - [] reports
+ - [] export excel
+ - [] maybe QRcode
+ - [] Dark/Light mode
+ - [] multi language
+ - [] images
